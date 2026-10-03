@@ -1,0 +1,11 @@
+*, *::before, *::after { box-sizing: border-box; }
+html { font-size: 16px; scroll-behavior: smooth; }
+body { margin: 0; min-width: 320px; }
+a { text-decoration: none; }
+button, input, textarea { font: inherit; }
+img { max-width: 100%; }
+::selection { background: rgba(139, 195, 74, .25); }
+::-webkit-scrollbar { width: 9px; }
+::-webkit-scrollbar-track { background: #f0ede5; }
+::-webkit-scrollbar-thumb { background: #315638; border-radius: 10px; }
+::-webkit-scrollbar-thumb:hover { background: #b28a35; }
