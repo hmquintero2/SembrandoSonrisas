@@ -106,6 +106,44 @@ const items = [
     title: 'Equipo de trabajo',
    
   },
+  {
+    id: 11,
+    type: 'video',
+    src: '/img/Entrevista1.mp4',
+    title: 'Entrevista a nuestras mujeres luchadoras',
+   
+  },
+  {
+    id: 12,
+    type: 'video',
+    src: '/img/Entrevista2.mp4',
+    title: 'Entrevista a Socio de la Fundación',
+   
+  },{
+    id: 13,
+    type: 'video',
+    src: '/img/Entrevista3.mp4',
+    title: 'Entrevista a nuestras mujeres luchadoras',
+   
+  },{
+    id: 14,
+    type: 'video',
+    src: '/img/Entrevista4.mp4',
+    title: 'Entrevista a nuestras mujeres luchadoras',
+   
+  },{
+    id: 15,
+    type: 'video',
+    src: '/img/Entrevista5.mp4',
+    title: 'Entrevista a nuestras mujeres luchadoras',
+   
+  },{
+    id: 16,
+    type: 'video',
+    src: '/img/Entrevista6.mp4' ,
+    title: 'Entrevista a Socio de la Fundación',
+   
+  },
 ];
 
 export default function Galeria() {
