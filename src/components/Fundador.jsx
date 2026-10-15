@@ -75,11 +75,11 @@ export default function Fundador() {
                 </div>
 
                 <p className="testimony-text">
-                  Crecí en la pobreza. Hubo noches en las que mi familia no sabía qué comer,
-                  días donde faltaba todo. Pero siempre supe que quería más, que tenía metas que
-                  alcanzar y sueños que cumplir. En medio de esa oscuridad, alguien creyó en mí.
-                  Una mano extendida, una palabra de aliento, un pequeño gesto cambiaron el rumbo
-                  de mi vida.
+                  Crecí en un entorno donde las cosas no siempre fueron fáciles. Hubo momentos de incertidumbre y 
+                  días en los que tuvimos que aprender a seguir adelante con lo que teníamos. Pero siempre supe 
+                  que quería más, que tenía metas que alcanzar y sueños que cumplir. En medio de esas dificultades, 
+                  alguien creyó en mí. Una mano extendida, una palabra de aliento y un pequeño gesto cambiaron el 
+                  rumbo de mi vida.
                 </p>
 
                 <p className="testimony-text">
